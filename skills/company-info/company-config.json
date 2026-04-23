@@ -49,6 +49,12 @@
   },
   "custom_fields": {
     "business_hours": "9:00-18:00",
+    "wifi": [
+      {
+        "location": "901",
+        "password": "Lxj888666"
+      }
+    ],
     "additional_info_1": "可在此添加其他企业信息",
     "additional_info_2": "可在此添加其他企业信息"
   }
