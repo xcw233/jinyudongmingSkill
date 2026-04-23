@@ -34,3 +34,38 @@ __pycache__/
 
 # 忽略 arkclaw-tos 挂载目录
 arkclaw-tos-*/
+
+# 忽略工作区的其他文件，只保留企业信息 skill
+.agents/
+.clawhub/
+.openclaw/
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+SAFETY.md
+SOUL.md
+TOOLS.md
+USER.md
+*.json
+*.py
+*.csv
+*.txt
+*.png
+*.sh
+skills-lock.json
+skills/bluebubbles/
+skills/browser-use/
+skills/computer-use/
+skills/find-skills
+skills/github/
+skills/image-generate/
+skills/notion/
+skills/self-improving-agent/
+skills/slack/
+skills/smart-ocr/
+skills/veadk-go-skills/
+skills/veadk-skills/
+skills/video-generate/
+skills/web_search/
+skills/workspace-netdrive/
