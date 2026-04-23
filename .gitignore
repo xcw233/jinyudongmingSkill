@@ -1,0 +1,36 @@
+
+# 忽略敏感文件
+.ssh/
+.gnupg/
+.aws/
+.config/gh/
+
+# 忽略可能包含敏感信息的文件
+*key*
+*secret*
+*password*
+*token*
+*credential*
+*.pem
+*.p12
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略临时文件
+*.tmp
+*.temp
+*.log
+
+# 忽略 node_modules
+node_modules/
+
+# 忽略 Python 虚拟环境
+venv/
+env/
+__pycache__/
+*.pyc
+
+# 忽略 arkclaw-tos 挂载目录
+arkclaw-tos-*/

@@ -1,0 +1,55 @@
+
+{
+  "basic_info": {
+    "company_name": "江西金舆洞明科技咨询有限公司",
+    "founded_year": "请输入成立年份",
+    "industry": "请输入所属行业",
+    "headquarters": "江西省南昌市南昌县中希控股总部大楼901"
+  },
+  "culture": {
+    "mission": "请输入企业使命",
+    "vision": "请输入企业愿景",
+    "core_values": [
+      "价值观1",
+      "价值观2",
+      "价值观3"
+    ]
+  },
+  "business": {
+    "products_services": [
+      "产品/服务1",
+      "产品/服务2",
+      "产品/服务3"
+    ]
+  },
+  "organization": {
+    "departments": [
+      "部门1",
+      "部门2",
+      "部门3"
+    ],
+    "employee_count": "请输入员工规模",
+    "key_management": {
+      "CEO": "CEO姓名",
+      "CTO": "CTO姓名",
+      "COO": "COO姓名"
+    }
+  },
+  "contact": {
+    "phone": "请输入联系电话",
+    "email": "请输入电子邮箱",
+    "address": "江西省南昌市南昌县中希控股总部大楼901"
+  },
+  "social_media": {
+    "wechat": "请输入微信公众号",
+    "weibo": "请输入微博账号",
+    "linkedin": "请输入LinkedIn账号",
+    "github": "请输入GitHub账号",
+    "website": "请输入官方网站"
+  },
+  "custom_fields": {
+    "business_hours": "9:00-18:00",
+    "additional_info_1": "可在此添加其他企业信息",
+    "additional_info_2": "可在此添加其他企业信息"
+  }
+}
